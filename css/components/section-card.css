@@ -1,0 +1,23 @@
+.bloc-text {
+    margin-bottom: 0;
+}
+
+.container-title3 {
+    background-color: white;
+}
+
+.title3 {
+    padding-top: 60px;
+    margin-top: 1em;
+    text-align: center;
+    font-size: 48px;
+    color: #5F2515;
+}
+
+.card-container2 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 3rem;
+    padding: 2vw 9vw 9vw;
+    background-color: white;
+}
