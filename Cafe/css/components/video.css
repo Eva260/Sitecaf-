@@ -1,0 +1,8 @@
+.section-video {
+    text-align: center;
+}
+
+.section-video iframe {
+    border-radius: 16px;
+    margin-top: 4em;
+}
